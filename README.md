@@ -49,8 +49,18 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 - Improve building design and construction using mobile computing and wearable technologies.
 - Managed and taught a team of 10 students, handling code organization and scene management.
 
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/6e775cf8-5a13-4f26-b99e-e616dabd08fe" alt="Embedded Systems Research Showcase Poster" width="75%" />
+  <br/>Digital Poster
+</p>
+
 **VR Developer/Artist, [BardoVR](https://www.bardovr.com/) (paid internship)**: Meditation & Book of Dead. [MVP Release](https://github.com/Versebuilding/StillnessVR/releases) 	_Apr 2021 - Mar 2022_
-  
+
+<p align="center">
+  <img src="https://github.com/Versebuilding/StillnessVR/blob/a444e3a5240b3f014c477ef8fd6e1cc6bdf8ae02/Gameplay_Example.gif" alt="Embedded Systems Research Showcase Poster" width="60%" />
+  <br/>MVP Final Transition Gameplay
+</p>
+
 ## Education
 
 **Computer Science master’s at [Arizona State University](https://asuonline.asu.edu/)**: 76 credits, Capped GPA: 4.0. 	 _Dec 2022_
