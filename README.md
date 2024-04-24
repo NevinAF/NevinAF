@@ -235,6 +235,30 @@ Using detectron2 object segmentation to automatically populate mahjong tiles int
 
 ## Activities and awards
 
+**DIY Fireplace Console**: _Oct 2023 - Nov 2023_
+
+<table align="center"><tr><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/11cfb783-8a39-46ec-a54f-701c9edb11d5" alt="" />
+  <br/>
+</p>
+</td><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/a24ff89a-c54e-40c8-98eb-e3d5772dca46" alt="" />
+  <br/>
+</p>
+</td></tr><tr><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/11e7575d-91a4-4453-9c7e-76a3b3376bdb" alt="" />
+  <br/>
+</p>
+</td><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/72edfd6a-313e-4f05-b3a0-880bf8f4ad24" alt="" />
+  <br/>
+</p>
+</td></tr></table>
+
 **[CIDSE 4+1, ASU](https://scai.engineering.asu.edu/accelerated-masters-in-cs-cse/)**: Accelerated Graduate program, Master’s in CS in 4.5 years.	 _Dec 2020 - Dec 2022_
 
 **[Presidential Scholarship, EMCC](https://www.estrellamountain.edu/academics/honors/presidents-honors-scholarship)**: Highest honors, awarded four times for all semesters. 	_Aug 2018 - May 2020_
