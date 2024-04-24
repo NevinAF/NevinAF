@@ -149,7 +149,7 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 </p>
 </td></tr><tr><td width="33%">
 <p align="center">
-  <img src="https://github.com/NevinAF/the-verse-bot/blob/d39fd64756dbf9b9ea43608ac38d1f8b4b2c76c4/docs/recording_0.webp" alt="Recording Finished Example" />
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/472f7665-52ee-4f81-a217-73876a8a176c" alt="Recording Finished Example" />
   <br/>Recording Finished Example
 </p>
 </td><td width="33%">
