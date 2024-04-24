@@ -29,21 +29,22 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 <table><tr><td width="33%">
 <p align="center">
   <img src="https://playags.com/wp-content/uploads/2024/01/Ying-Da-Ruby-Money-Charge-Single-Cab-Spectra-UR49_-Left-Face.png" alt="MC: Ying Da Ruby Cabinet" width="50%" />
+  <br/>Ying Da Ruby: Cabinet Preview
 </p>
 </td><td width="33%">
 <p align="center">
-  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/1d0f5e53-f6b0-41c0-bd35-2d7ae9558ac2" alt="MC: Ying Da Ruby Bonus" width="50%" />
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/1d0f5e53-f6b0-41c0-bd35-2d7ae9558ac2" alt="MC: Ying Da Ruby Bonus" width="60%" />
+  <br/>Ying Da Ruby: Example of Bonus Game
 </p>
-  
- </td></tr></table>
-
+</td></tr></table>
 
 **Embedded Systems Research, [ASU CAES](https://stamcenter.asu.edu/caes-lab/) (Job)**: Database analysis/security. [Showcase Poster](https://docs.google.com/presentation/d/17DS6Ll5wR4Ua1XnM5S4XyCkRd5n009YO/edit?usp=sharing&ouid=102130998918044360736&rtpof=true&sd=true)	_Jan 2022 - May 2022_
 
 <p align="center">
-  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/8d466c6d-9fdb-4fcb-9504-cfc15cd5f760" alt="Embedded Systems Research Showcase Poster" width="25%" />
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/e7859754-c83f-4acb-a08e-bcdb88e0f1f5" alt="Embedded Systems Research Showcase Poster" width="40%" />
+  <br/>2022 CAES Open House 
 </p>
-  
+
 **Virtual Reality Developer, [ASU ETBIM](https://web.archive.org/web/20231228062131/https:/etbimlab.com/) (Job)**: [Digital Poster](https://docs.google.com/presentation/d/182QOt301T9_v2pDrtDr8LNCj9X4CWCwJ/edit?usp=sharing&ouid=102130998918044360736&rtpof=true&sd=true) | [Developer Slides](https://docs.google.com/presentation/d/1GntaptTZvh7coKvKLOK6KFFp43E3P3QXo5_9lmUGLcE/edit?usp=sharing)	_Jan 2021 - May 2022_
 - Improve building design and construction using mobile computing and wearable technologies.
 - Managed and taught a team of 10 students, handling code organization and scene management.
