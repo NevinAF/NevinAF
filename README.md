@@ -135,6 +135,56 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 </p>
 </td></tr></table>
 
+**Aurora Discord Bot**: Multi-purpose discord bot w/ audio rec and weekly stats. [Source](https://github.com/NevinAF/the-verse-bot/)	 _Nov 2021 - July 2023_
+
+<table align="center"><tr><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/the-verse-bot/blob/d39fd64756dbf9b9ea43608ac38d1f8b4b2c76c4/personal_info_onboarding.png" alt="Onboarding personal info form" />
+  <br/>Onboarding personal info form
+</p>
+</td><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/the-verse-bot/blob/d39fd64756dbf9b9ea43608ac38d1f8b4b2c76c4/docs/weeklyUpdates.png" alt="Weekly Update Example" width="80%" />
+  <br/>Weekly Update Example
+</p>
+</td></tr><tr><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/the-verse-bot/blob/d39fd64756dbf9b9ea43608ac38d1f8b4b2c76c4/docs/recording_0.webp" alt="Recording Finished Example" />
+  <br/>Recording Finished Example
+</p>
+</td><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/the-verse-bot/blob/d39fd64756dbf9b9ea43608ac38d1f8b4b2c76c4/docs/role_assign.webp" alt="Role Assign Message" />
+  <br/>Role Assign Message
+</p>
+</td></tr></table>
+
+**Mahjong Calculator App**: [Source](https://github.com/NevinAF/MahjongCalculatorApp)  _Mar 2022 - Mar 2023_
+
+Using detectron2 object segmentation to automatically populate mahjong tiles into a user interface for calculating the winning hands' score.
+
+<table align="center"><tr><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/effa1c29-d4b3-4637-a4ff-184034a6f092" alt="Title Page" />
+  <br/>Title Page
+</p>
+</td><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/adf02590-dc5e-4ece-938f-2f67f7685e2f" alt="Different Input Modes" />
+  <br/>Different Input Modes
+</p>
+</td></tr><tr><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/df54edd0-41f6-40f4-b670-0ae54233ec24" alt="Entry / Adjustments Screen" />
+  <br/>Entry / Adjustments Screen
+</p>
+</td><td width="33%">
+<p align="center">
+  <img src="https://github.com/NevinAF/NevinAF/assets/78281215/675e57bf-86a5-49d9-89f6-9a83c721a386" alt="Tile Group Input" />
+  <br/>Tile Group Input
+</p>
+</td></tr></table>
+
 **Stillness VR**: VR Meditation and particle simulation experience. [MVP Release](https://github.com/Versebuilding/StillnessVR/releases) | [Webpage](https://www.bardovr.com/)	 _Oct 2021 - Mar 2022_
 
 <table align="center"><tr><td width="33%">
