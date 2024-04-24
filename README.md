@@ -97,7 +97,7 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 
 ## Projects
 
-**[Board Game Arena](https://boardgamearena.com/)**: Digital adaptations of board games. [BGA Type Safe Template](https://github.com/NevinAF/bga-ts-template) 	_Feb 2023 - Present_
+**[Board Game Arena](https://boardgamearena.com/)**: Digital adaptations of board games. [BGA Type Safe Template](https://github.com/NevinAF/bga-ts-template) 	_Feb 2024 - Present_
 
 <table align="center"><tr><td width="40%">
 <p align="center">
