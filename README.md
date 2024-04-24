@@ -20,8 +20,8 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 - Prototyping and optimization – Quick creating solutions and creating quick solutions.
   
 **Programming Languages and Tools:**
-- C#, Git/GitHub, Unity 3D, Visual Studio, VS Code, HLSL, Windows/Linux.	_5-7yr and 4yr+ professional_
-- C/C++, Python, OpenCV, SteamVR/Oculus, JS/Typescript, Node, Excel.	_2-4yr and 1-2yr professional_
+- C#, Git/GitHub, Unity 3D, Visual Studio, VS Code, HLSL, Windows/Linux.	_5-7yr (4yr+ professional)_
+- C/C++, Python, OpenCV, SteamVR/Oculus, JS/Typescript, Node, Excel.	_2-4yr (1-2yr professional)_
 - React/NextJS, SVN, Intel’s Pin Tool, Rokoko Studio, GitLab, D3, UE4/5, Android. 	_1-2yr professional_
 - PHP, Java/Kotlin, SQL, MySQL, XAMPP, CSS/SCSS, Firebase, tailwind.	_2-6yr personal_
   
