@@ -3,7 +3,10 @@ Nevin Foster
 
 Results-driven software engineer with over 7 years of expertise in game development, data analysis, rendering, and tooling. Master’s degree in computer science with a 4.0 GPA. Passionate about tackling challenges head-on, prioritizing swift programming solutions without compromising performance, readability, or scalability.
 
+_All links and images are my work or feature large personal contributions (non-organization links)._
+
 ## Skills
+
 Highly motivated, problem-solver, adept time manager, quick learner, proactive communicator, and respectful.
  
 **Technical Strengths:**
@@ -32,19 +35,29 @@ Highly motivated, problem-solver, adept time manager, quick learner, proactive c
 **VR Developer/Artist, [BardoVR](https://www.bardovr.com/) (paid internship)**: Meditation & Book of Dead. [MVP Release](https://github.com/Versebuilding/StillnessVR/releases) 	_Apr 2021 - Mar 2022_
   
 ## Education
+
 **Computer Science master’s at [Arizona State University](https://asuonline.asu.edu/)**: 76 credits, Capped GPA: 4.0. 	 _Dec 2022_
+
 **Computer Science Associates at [Estrella Mountain Community College](https://www.estrellamountain.edu/)**: 64 credits, GPA: 4.0. 	 _May 2020_
+
 **High school Diploma at [Desert Edge](https://www.aguafria.org/dehs)**: 5 on AP AB Calc, BC Calc, Statistics, 4 on AP Physics and more. 	 _May 2018_
 
-Projects
-**[Board Game Arena](https://boardgamearena.com/)**: Digital adaptations of board games. [BGA Type Safe Template](https://github.com/NevinAF/bga-ts-template) 	_Feb 2023 - Present_
-**Adventures in Breath**: Breath as user input. [Demo Releases](https://github.com/Versebuilding/AiB-App/releases) | [Framework](https://docs.google.com/presentation/d/1DgyVn3C-NJYVlhoHBXkjvRmYYvaiEjpjvubrIIAeMbA/edit?usp=sharing) | [Trailer](https://drive.google.com/file/d/1RECrIq9SDkGhZRiElDvlA-Mt7DfP1vMw) | [Source](https://github.com/NevinAF/BreathLibraryCore) 	Feb 2021 - _July 2023_
-**Stillness VR**: VR Meditation and particle simulation experience. [MVP Release](https://github.com/Versebuilding/StillnessVR/releases) | [Webpage](https://www.bardovr.com/)	 Oct 2021 - _Mar 2022_
-**Games for Change, [XR Game Jam](https://itch.io/jam/xr-brain-jam) (Event)**: 4-day team event creating inspiring software. [Itch.io](https://lnkd.in/g79AzUf) 	_June 27th, 2021_
-**Towers of Hanoi**: C# animated stacks/queues. [Source](https://github.com/NevinAF/Towers-of-Hanoi) | [Release Build](https://github.com/NevinAF/Towers-of-Hanoi/releases/tag/v1.0) 	 May 2019
-## Activities and awards
-[CIDSE 4+1, ASU](https://scai.engineering.asu.edu/accelerated-masters-in-cs-cse/): Accelerated Graduate program, Master’s in CS in 4.5 years.	 _Dec 2020 - Dec 2022_
-[Presidential Scholarship, EMCC](https://www.estrellamountain.edu/academics/honors/presidents-honors-scholarship): Highest honors, awarded four times for all semesters. 	_Aug 2018 - May 2020_
-[Marching Band](https://www.aguafria.org/dehs) and [Drum Corp](https://www.dci.org/): Percussionist, Freshman of the Year, Section Leader.	 _Aug 2014 - May 2018_
+## Projects
 
-_All italicized links are my work or feature large personal contributions (non-organization links)._
+**[Board Game Arena](https://boardgamearena.com/)**: Digital adaptations of board games. [BGA Type Safe Template](https://github.com/NevinAF/bga-ts-template) 	_Feb 2023 - Present_
+
+**Adventures in Breath**: Breath as user input. [Demo Releases](https://github.com/Versebuilding/AiB-App/releases) | [Framework](https://docs.google.com/presentation/d/1DgyVn3C-NJYVlhoHBXkjvRmYYvaiEjpjvubrIIAeMbA/edit?usp=sharing) | [Trailer](https://drive.google.com/file/d/1RECrIq9SDkGhZRiElDvlA-Mt7DfP1vMw) | [Source](https://github.com/NevinAF/BreathLibraryCore) 	_Feb 2021 - July 2023_
+
+**Stillness VR**: VR Meditation and particle simulation experience. [MVP Release](https://github.com/Versebuilding/StillnessVR/releases) | [Webpage](https://www.bardovr.com/)	 _Oct 2021 - Mar 2022_
+
+**Games for Change, [XR Game Jam](https://itch.io/jam/xr-brain-jam) (Event)**: 4-day team event creating inspiring software. [Itch.io](https://lnkd.in/g79AzUf) 	_June 27th, 2021_
+
+**Towers of Hanoi**: C# animated stacks/queues. [Source](https://github.com/NevinAF/Towers-of-Hanoi) | [Release Build](https://github.com/NevinAF/Towers-of-Hanoi/releases/tag/v1.0) 	 _May 2019_
+
+## Activities and awards
+
+**[CIDSE 4+1, ASU](https://scai.engineering.asu.edu/accelerated-masters-in-cs-cse/)**: Accelerated Graduate program, Master’s in CS in 4.5 years.	 _Dec 2020 - Dec 2022_
+
+**[Presidential Scholarship, EMCC](https://www.estrellamountain.edu/academics/honors/presidents-honors-scholarship)**: Highest honors, awarded four times for all semesters. 	_Aug 2018 - May 2020_
+
+**[Marching Band](https://www.aguafria.org/dehs) and [Drum Corp](https://www.dci.org/)**: Percussionist, Freshman of the Year, Section Leader.	 _Aug 2014 - May 2018_
