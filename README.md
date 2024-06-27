@@ -1,7 +1,7 @@
 Nevin Foster
 ============
 
-Results-driven software engineer with over 7 years of expertise in game development, data analysis, rendering, and tooling. Master’s degree in computer science with a 4.0 GPA. Passionate about tackling challenges head-on, prioritizing swift programming solutions without compromising performance, readability, or scalability.
+Results-driven software engineer with 5+ years experience in professional game development, data analysis, rendering, and tooling (8+ personal/unpaid). Master’s degree in computer science with a 4.0 GPA. Passionate about tackling challenges head-on, prioritizing swift programming solutions without compromising performance, readability, or scalability.
 
 <p align="center">
   <img src=https://github.com/NevinAF/NevinAF/assets/78281215/c90c7567-d7fe-47b0-b861-18bf5354f795" alt="Image Banner of Nevin Foster" />
